@@ -31,7 +31,7 @@ TheGoldenBrown will do the rest.
 HTML5, CSS3 , JavaScript, Bootstrap 4, AngularJS, Jquery, VisualStudioCode
 
 <h2>Stuff to Work on</h2>
-Search Bar, Ordering cake page, Working Database.
+Search Bar, Ordering cake page, Database
 </p><br>
 
 <p align='center'>
