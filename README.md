@@ -1,7 +1,7 @@
 
 # TheGoldenBrown
 
-
+<img src="https://github.com/NikhilMalhotra2000/TheGoldenBrown/blob/master/ezgif.com-optimize.gif?raw=true ">
 
 <h1>Introduction</h1>
 <p>You want to order a customized cake? TheGoldenBrown is there.
@@ -14,7 +14,6 @@ TheGoldenBrown will do the rest.
 <p>
 
 
-<img src="https://i.ibb.co/3BWpFHj/ezgif-com-optimize.gif"  border="0" />
 
 
 
