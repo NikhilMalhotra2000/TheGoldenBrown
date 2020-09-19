@@ -1,7 +1,7 @@
 
 # TheGoldenBrown
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3BWpFHj/ezgif-com-optimize.gif" border="0" /></a>
+
 
 <h1>Introduction</h1>
 <p>You want to order a customized cake? TheGoldenBrown is there.
@@ -12,6 +12,11 @@ TheGoldenBrown will do the rest.
 <a href="https://github.com/NikhilMalhotra2000/TheGoldenBrown/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/NikhilMalhotra2000/TheGoldenBrown"></a>   &nbsp;<a href="https://github.com/NikhilMalhotra2000/TheGoldenBrown/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/NikhilMalhotra2000/TheGoldenBrown"></a> &nbsp;<a href="https://github.com/NikhilMalhotra2000/TheGoldenBrown/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NikhilMalhotra2000/TheGoldenBrown"></a>
 </p>
 <p>
+
+
+<img src="https://i.ibb.co/3BWpFHj/ezgif-com-optimize.gif"  border="0" />
+
+
 
 <h1>Working</h1>
 1. Visit customized cake page by clicking <a href="#">here</a>.<br>
