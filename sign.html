@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+
+:root {
+  --main-color: coral;
+  --text-color: #444;
+  --formcolor: white;
+  --button-color: hsl(356, 90%, 64%);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html { 
+  height: 100%;
+}
+
+body {
+  display: flex;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-color);
+  font-family: 'Varela Round', sans-serif; 
+  font-size: 1.1rem;
+  font-weight: bold;
+  background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+}
+
+form {
+  display: block;
+  border-radius: 12px;
+  padding: 10vh 10vw;
+  background: var(--formcolor);
+  text-align: center;
+  box-shadow: 0px 0px 5px hsl(195, 50%, 98%);
+}
+
+.title {
+  padding: 10px 0px;
+  border-bottom: 4px solid;
+  font-size: 3rem;
+  margin-bottom: 15px;
+}
+
+.signup-field {
+  padding: 10px;
+  text-align: left;
+}
+
+fieldset {
+  display: inline;
+  text-align: left;
+  padding: 10px;
+}
+
+input[type="submit"] {
+  font-family: inherit;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 1.2rem;
+  padding: 0.8rem 1.2rem;
+  border: 2px outset var(--button-color);
+  border-radius: 10px;
+  cursor: pointer;
+  color: var(--text-color);
+  background-color: transparent;
+  transition: all 0.2s ease-out;
+}
+
+input[type="submit"]:hover {
+  cursor: pointer;
+  background-color: var(--button-color, black);
+  color: var(--formcolor);
+  transition-duration: 0.4s;
+}
+
+.input-field {
+  border: 0;
+  border-radius: 5px;
+  height: 40px;
+  padding: 0.8rem 1.2rem;
+  margin: 0.3rem 0;
+  background-color: #f0f0f0;
+}
+
+label {
+  display: block;
+}
+</style>
+</head>
+
+<body>
+  <form>
+
+    <h1 class="title">SIGN UP</h1>
+  
+    <div class="signup-field">
+      <label for="name">Name</label>
+      <input type="text" name="name" class="input-field" placeholder="Type your name" required autofocus>
+    </div>
+  
+    <div class="signup-field">
+      <label for="last_name">Last Name</label>
+      <input type="text" name="last_name" class="input-field" placeholder="Type your last name" required>
+    </div>
+  
+    <div class="signup-field">
+      <label for="email">E-mail</label>
+      <input type="email" name="email" class="input-field" placeholder="example@domain.com" required>
+    </div>
+  
+    <div class="signup-field">
+      <label for="password">Password</label>
+      <input type="password" name="password" class="input-field" placeholder="Type your password" required>
+    </div>
+  
+    <fieldset>
+      <legend class="gender">Choose gender:</legend>
+      
+      <div class="pretty p-icon p-round p-plain p-smooth p-bigger">
+        <input type="radio" value="male" name="gender">
+        <div class="state p-primary-o">
+          <i class="fas fa-male icon"></i>
+          <label for="male">Male</label>
+        </div>
+      </div>
+
+      <div class="pretty p-icon p-round p-plain p-smooth p-bigger">
+        <input type="radio" value="female" name="gender">
+        <div class="state p-primary-o">
+          <i class="fas fa-female icon"></i>
+          <label for="female">Female</label>
+        </div>
+      </div>
+    </fieldset>
+
+  <div class="signup-button">
+    <input type="submit" value="SUBMIT" onclick="C:\Users\Nikhil\Desktop\SITE project\homepage\home.html">
+  </div>
+  </form>
+
+
+</body>  
+</html>
