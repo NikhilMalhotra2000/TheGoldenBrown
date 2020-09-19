@@ -1,7 +1,7 @@
 
 # TheGoldenBrown
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3BWpFHj/ezgif-com-optimize.gif" alt="ezgif-com-optimize" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3BWpFHj/ezgif-com-optimize.gif" border="0" /></a>
 
 <h1>Introduction</h1>
 <p>You want to order a customized cake? TheGoldenBrown is there.
