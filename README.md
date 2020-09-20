@@ -26,7 +26,7 @@ TheGoldenBrown will do the rest.
 6. You will get the list of different bakers within the next 24 hours on what they have to offer you.<br>
 7. You can now easily select the baker and place your order.<br>
 8. If you don't see any listing within the next 24 hrs, maybe the bakers with the TGB have nothing to offer you based on your request.<br>
-9. </p>
+ </p>
 <h4>Languages/Tools</h4>
 HTML5, CSS3 , JavaScript, Bootstrap 4, AngularJS, Jquery, VisualStudioCode
 
