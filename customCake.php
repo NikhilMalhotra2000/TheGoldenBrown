@@ -284,8 +284,8 @@ $(document).ready(function() {
 				</li>
 				</ul>
 			</div>
-			<div class="col-md" id="blackbar-items" style="background-color:#e6b800;"><a href="index.html" style="color:white;"><center>HOME</center></a></div>
-			<div class="col-md" id="blackbar-items"><a href="#" style="color:white;"><center><abbr  title="Order your cake by just uploading a picture !" style="text-decoration:none;">Customized Cake ?</abbr></center></a></div>
+			<div class="col-md" id="blackbar-items" ><a href="index.html" style="color:white;"><center>HOME</center></a></div>
+			<div class="col-md" id="blackbar-items" style="background-color:#e6b800;"><a href="#" style="color:white;"><center><abbr  title="Order your cake by just uploading a picture !" style="text-decoration:none;">Customized Cake ?</abbr></center></a></div>
 			<div class="col-md" id="blackbar-items"><a href="#" style="color:white;"><center><abbr  title="If you are a Baker and want to be a part of TGB." style="text-decoration:none;"> Bakers Point</center></a></div>
 			<div class="col-md" id="blackbar-items"><a href="#" style="color:white;"><center><i class="fa fa-shopping-basket" aria-hidden="true"></i> SHOP</center></a></div>
 			<div class="col-md" id="blackbar-items"><a href="#" style="color:white;"><center>CONTACT</center></a></div>
@@ -296,28 +296,43 @@ $(document).ready(function() {
 </div>
 </div>
 
-<div class="container">
+<div class ="container">
+
+
+    <br>
+    <br>
+    
+    <!-- ADDRESS BAR--!>
+    <center>
+    <select class="location"><option>Select Location</option><option>Delhi</option><option>NCR</option><option>Chandigarh</option></select>
+    
+    &nbsp; &nbsp;&nbsp;&nbsp;
+    
+   Enter Address : <input type="text"name="address" size="50">
+   
+   <br><br>
+   
+   Upload Image/s <input type="file">
+   <br><br>
+   
+  <textarea  placeholder="Description..." name = "description" rows="4" cols="50" ></textarea>
+  <br><br>
+  
+  <input type="submit" value="Submit">
+  
+   
+    </center>    
+
+
 <br>
 <br>
-<center><h2><i><b>Instructions ( How to get your custom cake )</b></i></h2></center>
 <br>
-<pre>
-1. Visit customized cake page by clicking <a href="http://thegoldenbrown.ga/customCake.php">here</a>.
-2. Select your location.
-3. Upload one or more image/s of the product you want by clicking on the <i>upload</i> button.
-4. Write some information about the product you want in the given text area.
-5. That's it, we'll do the rest.
-6. You will get the list of different bakers within the next 24 hours on what they have to offer you.
-7. You can now easily select the baker and place your order.
-8. If you don't see any listing within the next 24 hrs, maybe the bakers with the TGB have nothing to offer you based on your request.
-
-
-
-
-</pre>
+<br>
 
 </div>
 
+
+<!--FOOTER SECTION -->
 <footer style="background-color:black;height:100%px;">
 
 <div style="background-color:black;color:white;" class="container-fluid">
@@ -390,7 +405,7 @@ $(document).ready(function() {
 			<div class="col-sm-2"><img src="ad.png" style="margin-bottom:5%;"> &nbsp;&nbsp; Advertise</div>
 			<div class="col-sm-2"><img src="gift.png" style="margin-bottom:5%;"> &nbsp;&nbsp; Gift Cards</div>
 			<div class="col-sm-2"><img src="help.png" style="margin-bottom:5%;"> &nbsp;&nbsp; Help Center</div>
-			<div class="col-sm-4">©2020 thegoldenbrown.com     <img src="https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/payment-method_2dd397.svg"></div>
+			<div class="col-sm-4">©2020 thegoldenbrown.ga     <img src="https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/payment-method_2dd397.svg"></div>
 			
 	
 	
@@ -405,8 +420,10 @@ $(document).ready(function() {
 
 
 
-
 </footer>
 
+<!--#e6b800;-->
+
 </body>
+
 </html>
